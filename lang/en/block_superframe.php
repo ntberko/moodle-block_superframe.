@@ -39,3 +39,15 @@ $string['viewlink'] = 'view Page';
 // Capability strings
 $string['superframe:addinstance'] = 'Add a new Super frame block';
 $string['superframe:myaddinstance'] = 'Add a new Super frame block to my moodle';
+
+
+// admin settings strings
+$string['headerconfig'] = 'frame settings';
+$string['url'] = 'url';
+$string['height'] = 'height';
+$string['width'] = 'width';
+$string['pagelayout'] = 'pagelayout';
+$string['url_details'] = 'url to display';
+$string['height_details'] = 'frame height in px';
+$string['width_details'] = 'frame width in px';
+$string['pagelayout_details'] = 'select page layout';
